@@ -7,4 +7,4 @@ For the final portion of the challenge, I applied these ideas to design a bluepr
 Overall, this project represents both a learning journal and a system design exercise exploring how modern AI agents can be structured, evaluated, and implemented.
 
 🔗 View the full project:
-https://ddchamber.github.io/DailyEpoch/
+[https://ddchamber.github.io/DailyEpoch/](https://ddchamber.github.io/DailyEpoch/)
